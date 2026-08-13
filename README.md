@@ -27,6 +27,7 @@
 
 https://github.com/kamilozan/transkriptpro/issues/1
 
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
