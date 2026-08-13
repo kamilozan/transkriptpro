@@ -25,7 +25,7 @@
 
 ## 🖼️ Screenshot
 
-https://github.com/kamilozan/transkriptpro/issues/1
+Main Page : https://github.com/kamilozan/transkriptpro/issues/1
 
 
 ## 🛠️ Tech Stack
